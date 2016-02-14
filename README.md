@@ -1,5 +1,5 @@
 # UlamSpiral
-Make Ulam's Spiral
+Make Ulam's Spiral written in Swift
 
 # Requirement
 Swift2
