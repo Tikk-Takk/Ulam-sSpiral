@@ -1,5 +1,4 @@
 # UlamSpiral
-====
 Make Ulam's Spiral
 
 # Requirement
