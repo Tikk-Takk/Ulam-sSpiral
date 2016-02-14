@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Ulam'sSpiral
 //
-//  Created by 小倉拓馬 on 2016/02/14.
+//  Created by Takk on 2016/02/14.
 //  Copyright © 2016年 Takuma Ogura. All rights reserved.
 //
 
