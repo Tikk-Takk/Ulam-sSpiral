@@ -1,8 +1,6 @@
 # UlamSpiral
 Ulam's Spiral written in Swift
-
 ![Ulam's Spiral](https://raw.githubusercontent.com/wiki/Tikk-Takk/Ulam-sSpiral/images/ulam.gif)
-
 # Requirement
 Swift2
 
